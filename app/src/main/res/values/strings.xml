@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DrawerExercise</string>
+    <string name="categoria_de_guerrers">Warriors</string>
+    <string name="categoria_d_ordinadors">Computers</string>
+    <string name="categoria_d_aliens">Aliens</string>
+    <string name="exercici_de_navegaci_niuada">Nested navigation exercise</string>
+    <string name="llista_d_aliens">Aliens list</string>
+    <string name="llista_de_guerrers">Warriors list</string>
+    <string name="llista_d_ordinadors">Computers list</string>
+    <string name="id">"Id: "</string>
+    <string name="nom">"Name: "</string>
+    <string name="edat">"Age: "</string>
+    <string name="for_a">Strength</string>
+    <string name="resistencia">Resistance</string>
+    <string name="atac">Attack</string>
+    <string name="defensa">Defense</string>
+    <string name="origen">"Origin: "</string>
+    <string name="perillositat">Danger</string>
+    <string name="intel_ligencia">Intelligence</string>
+    <string name="compatibilitat">Compatibility</string>
+    <string name="descobriment">Discobery: </string>
+    <string name="marca">"Brand: "</string>
+    <string name="any_de_fabricacio">"Fabrication year: "</string>
+    <string name="processador">"Processor: "</string>
+    <string name="potencia_processador">Processor power</string>
+    <string name="ram">"RAM: "</string>
+    <string name="potencia_ram">RAM power</string>
+    <string name="potencia_gr_fica">Graphic power:</string>
+    <string name="targeta_gr_fica">"Graphic card: "</string>
+    <string name="connexi_wifi">"WIFI connection: "</string>
+</resources>

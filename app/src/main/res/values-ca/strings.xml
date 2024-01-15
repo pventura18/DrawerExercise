@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DrawerExercise</string>
+    <string name="categoria_de_guerrers">Guerrers</string>
+    <string name="categoria_d_ordinadors">Ordinadors</string>
+    <string name="categoria_d_aliens">Aliens</string>
+    <string name="exercici_de_navegaci_niuada">Exercici de navegació niuada</string>
+    <string name="llista_d_aliens">Llista Aliens</string>
+    <string name="llista_de_guerrers">Llista Guerrers</string>
+    <string name="llista_d_ordinadors">Llista Ordinadors</string>
+    <string name="id">"Id: "</string>
+    <string name="nom">"Nom: "</string>
+    <string name="edat">"Edat: "</string>
+    <string name="for_a">Força</string>
+    <string name="resistencia">Resistencia</string>
+    <string name="atac">Atac</string>
+    <string name="defensa">Defensa</string>
+    <string name="origen">"Origen: "</string>
+    <string name="perillositat">Perillositat</string>
+    <string name="intel_ligencia">Intel·ligencia</string>
+    <string name="compatibilitat">Compatibilitat</string>
+    <string name="descobriment">Descobriment: %</string>
+    <string name="marca">"Marca: "</string>
+    <string name="any_de_fabricacio">"Any de fabricacio: "</string>
+    <string name="processador">"Processador: "</string>
+    <string name="potencia_processador">Potencia processador</string>
+    <string name="ram">"RAM: "</string>
+    <string name="potencia_ram">Potencia RAM</string>
+    <string name="potencia_gr_fica">Potencia gràfica: </string>
+    <string name="targeta_gr_fica">"Targeta Gràfica: "</string>
+    <string name="connexi_wifi">"Connexió WIFI: "</string>
+</resources>
